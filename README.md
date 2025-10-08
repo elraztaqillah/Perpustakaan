@@ -2,9 +2,13 @@ Demo :
 <p> username : admin </p>
 <p> password : admin123 </p>
 
+<p align="center"><a href="" target="_blank"><img src="resources\assets\1.png" width="600" alt=""></a></p>
 
+<p align="center"><a href="" target="_blank"><img src="resources\assets\2.png" width="400" alt=""></a></p>
 
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="resources\assets\1.png" width="400" alt="Laravel Logo"></a></p>
+<p align="center"><a href="" target="_blank"><img src="resources\assets\3.png" width="400" alt=""></a></p>
+
+<p align="center"><a href="" target="_blank"><img src="resources\assets\4.png" width="400" alt=""></a></p>
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
