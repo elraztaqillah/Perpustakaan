@@ -53,7 +53,7 @@ php artisan db:seed
 # Jalankan server lokal
 php artisan serve
 
-##🔐 Login Admin
+<p>##🔐 Login Admin</p>
 
 Setelah seeding, kamu bisa login ke halaman admin:
 
