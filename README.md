@@ -27,6 +27,7 @@ Website ini adalah aplikasi manajemen perpustakaan sederhana yang dibangun mengg
 - Filament PHP v3
 - MySQL 
 
+
 ## 📦 Instalasi
 
 Ikuti langkah-langkah berikut untuk menjalankan proyek ini secara lokal:
@@ -53,7 +54,9 @@ php artisan db:seed
 # Jalankan server lokal
 php artisan serve
 
-<p>##🔐 Login Admin</p>
+
+
+##🔐 Login Admin
 
 Setelah seeding, kamu bisa login ke halaman admin:
 
@@ -62,6 +65,8 @@ URL Admin: /admin
 Email: admin@gmail.com
 
 Password: admin123
+
+
 
 ##📁 Struktur Folder Penting
 
@@ -72,6 +77,7 @@ app/Models/ – Model database
 database/migrations/ – File migrasi database
 
 database/seeders/ – Seeder data awal
+
 
 
 ##🤝 Kontribusi
