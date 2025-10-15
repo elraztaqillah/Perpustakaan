@@ -9,7 +9,7 @@
 <p align="center"><a href="" target="_blank"><img src="resources\assets\4.png" width="600" alt=""></a></p>
 
 
-# 📚 Website Perpustakaan Sederhana
+# 📚 Website Perpustakaan Sederhana yak
 
 Website ini adalah aplikasi manajemen perpustakaan sederhana yang dibangun menggunakan [Laravel](https://laravel.com/) dan [Filament](https://filamentphp.com/) sebagai admin panel.
 
